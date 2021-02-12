@@ -1,4 +1,4 @@
-package br.com.springbootbasics.start;
+package br.com.springbootbasics.awesome.start;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
